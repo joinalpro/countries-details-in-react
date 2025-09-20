@@ -4,3 +4,11 @@
   padding: 20px;
   border-radius: 20px;
 }
+
+.country-visited {
+  background-color: aquamarine;
+}
+.visited-flags-container img {
+  width: 120px;
+  margin-right: 10px;
+}
